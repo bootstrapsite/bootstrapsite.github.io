@@ -1372,28 +1372,10 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r146YZl83W {
-  background: #ffffff;
-}
-.cid-r146YZl83W .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-r146YZl83W .mbr-figure {
-  margin: 0 auto;
-}
-.cid-r146YZl83W figcaption {
-  position: relative;
-}
-.cid-r146YZl83W figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-r146YZl83W .image-block {
-    width: 100% !important;
-  }
+.cid-r147RCzWTX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-r0T5JmN1Fh .navbar {
   background: #ffffff;
